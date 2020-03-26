@@ -11,7 +11,7 @@ I personally use this project as a cronjob right now.
 
 ### 2. Create credentials.js
 
-Create the file `gresy/credentials.js` and paste your credentials.
+Create the file `greb/credentials.js` and paste your credentials.
 You can copy the following code:
 
 ```javascript
@@ -30,22 +30,22 @@ module.exports = {
 * Run the install task in the terminal:
 
 ```bash
-# in gresy/ directory
+# in greb/ directory
 npm i
 ```
 
-### 4. Run gresy
+### 4. Run greb
 
-Run gresy in the terminal:
+Run greb in the terminal:
 
 ```bash
-# in gresy/ directory
+# in greb/ directory
 npm start
 ```
 
 ### 5. Relax ☕
 
-Grab a coffee and let gresy to the backup.
+Grab a coffee and let greb do the backup.
 
 ## Plans for the future
 
